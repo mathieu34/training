@@ -1,2 +1,2 @@
 # training
-Entrainement avec le logiciel python
+Codage avec le logiciel python
